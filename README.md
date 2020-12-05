@@ -1,1 +1,4 @@
 # Horiseon-digital-marketing-project
+
+The motivation for this project was to fix the coding elements of a website by locating and correcting code errors. This makes the website more accessible and easier to understand for future coders, allowing proper program operation. Benefits of a program that is easily accessible to coders include being prioritised by search engines such as Google and Bing, as well as effortless interpretation. Information gained from this project include how to make a website futureproof by ensuring the coding is structured and easily comprehensible, which assists editors who may one day want to add or update the program. Although the troubleshooting aspects were difficult this program expanded my innovative skills, making the website a product of creativity and perseverance.
+
